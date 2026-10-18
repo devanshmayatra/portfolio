@@ -17,7 +17,7 @@ import { FaGithub, FaLinkedin } from "react-icons/fa6";
 const LINKS = {
   github: "https://github.com/devanshmayatra",
   linkedin: "https://www.linkedin.com/in/devanshmayatra/",
-  email: "mailto:devanshm@umd.edu",
+  email: "mailto:devanshm667@gmail.com",
   resume: "/resume.pdf",
 };
 
